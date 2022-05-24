@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPostgresDapper", "ApiPostgresDapper\ApiPostgresDapper.csproj", "{EDC97FB7-FC4E-4ADB-9916-A78EA0DF84EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApirPostgresDapper.Infraestructure", "ApirPostgresDapper.Infraestructure\ApirPostgresDapper.Infraestructure.csproj", "{995CA359-C448-4AF0-B598-1666FDEFB4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPostgresDapper.Domain", "ApiPostgresDapper.Domain\ApiPostgresDapper.Domain.csproj", "{08B8DE0B-0288-48AA-ADF3-9420DBC6E799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC97FB7-FC4E-4ADB-9916-A78EA0DF84EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC97FB7-FC4E-4ADB-9916-A78EA0DF84EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC97FB7-FC4E-4ADB-9916-A78EA0DF84EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC97FB7-FC4E-4ADB-9916-A78EA0DF84EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995CA359-C448-4AF0-B598-1666FDEFB4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995CA359-C448-4AF0-B598-1666FDEFB4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995CA359-C448-4AF0-B598-1666FDEFB4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995CA359-C448-4AF0-B598-1666FDEFB4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B8DE0B-0288-48AA-ADF3-9420DBC6E799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B8DE0B-0288-48AA-ADF3-9420DBC6E799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B8DE0B-0288-48AA-ADF3-9420DBC6E799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B8DE0B-0288-48AA-ADF3-9420DBC6E799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {384DC892-B7EC-4D73-A466-03041C881938}
+	EndGlobalSection
+EndGlobal
